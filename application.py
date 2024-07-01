@@ -1,1 +1,1 @@
-print("Hello world")
+print("Hello Dakar Institute of Technology")
